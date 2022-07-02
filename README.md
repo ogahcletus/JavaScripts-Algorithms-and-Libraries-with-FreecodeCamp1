@@ -1,0 +1,2 @@
+# JavaScripts-Algorithms-and-Libraries-with-FreecodeCamp1
+This is my working tutorial on JavaScript with freecodecamp which is designed to make HTML and CSS interactive. In this JavaScript Algorithm and Data Structures Certification, I learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions. The objective is to enable me apply this knowledge by creating algorithm…
